@@ -19,7 +19,7 @@ Visual components and Python
 ## Experiment:
 ![exp6](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/8174c246-d4fb-4c73-8ecc-48bed11c80fb)
 
-![exp6 1](https://github.com/nithin-popuri7/Open-Jacson-Networks/assets/94154780/0ef077a1-29ac-4a7d-af4d-ee190017819a)
+
 
 
 ## Program
